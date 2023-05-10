@@ -1,0 +1,127 @@
+{
+  "meals" : [ {
+    "id" : 1,
+    "title" : "Lunch"
+  }, {
+    "id" : 2,
+    "title" : "Dinner"
+  } ],
+  "danhSachBaiHoc" : [ {
+    "id" : "C0B1",
+    "chuong" : "A - Nền tảng",
+    "title" : "Cách học chữ Hán - 214 Bộ (Phần 1)",
+    "content" : "Quy tắc bút thuận..",
+    "extraContent" : "Lý giải sự cần thiết học chữ Hán",
+    "youTubeId" : "CRhxjf4zMVA",
+    "chinesse" : "佛 說: 「人 人 都 可 以 成 佛. 」",
+    "hanViet" : "Phật thuyết: 「nhân nhân đô khả dĩ thành Phật. 」",
+    "bacKinh" : "fó shuō: 「rén rén dōu kě yǐ chéng fó. 」" 
+  }, 
+  {
+    "id" : "C0B2",
+    "chuong" : "A - Nền tảng",
+    "title" : "Cách học chữ Hán - 214 Bộ (Phần 2)",
+    "content" : "Quy tắc bút thuận..",
+    "extraContent" : "Lý giải sự cần thiết học chữ Hán",
+    "youTubeId" : "0FClA0tsqs4",
+    "chinesse" : "佛 說: 「人 人 都 可 以 成 佛. 」",
+    "hanViet" : "Phật thuyết: 「nhân nhân đô khả dĩ thành Phật. 」",
+    "bacKinh" : "fó shuō: 「rén rén dōu kě yǐ chéng fó. 」"
+  }, 
+  {
+    "id" : "C0B3",
+    "chuong" : "A - Nền tảng",
+    "title" : "Cách học chữ Hán - 214 Bộ (Phần 3)",
+    "content" : "Quy tắc bút thuận..",
+    "extraContent" : "Lý giải sự cần thiết học chữ Hán",
+    "youTubeId" : "gSfmml_U1q0",
+    "chinesse" : "佛 說: 「人 人 都 可 以 成 佛. 」",
+    "hanViet" : "Phật thuyết: 「nhân nhân đô khả dĩ thành Phật. 」",
+    "bacKinh" : "fó shuō: 「rén rén dōu kě yǐ chéng fó. 」"
+  }, 
+  {
+    "id" : "C0B4",
+    "chuong" : "A - Nền tảng",
+    "title" : "Cách học phát âm Bắc Kinh",
+    "content" : "Cách phát âm Bắc Kinh",
+    "extraContent" : "Lý giải sự cần thiết học chữ Hán",
+    "youTubeId" : "S--v90lFsCI",
+    "chinesse" : "佛 說: 「人 人 都 可 以 成 佛. 」",
+    "hanViet" : "Phật thuyết: 「nhân nhân đô khả dĩ thành Phật. 」",
+    "bacKinh" : "fó shuō: 「rén rén dōu kě yǐ chéng fó. 」"
+  }, 
+  {
+    "id" : "C1B1",
+    "chuong" : "B - Chương 1",
+    "title" : "Bài 1 - Phật",
+    "content" : "Phật nói: Người người đều có thể thành Phật. Phật đà dạy bảo thế nhân( mọi người), chỉ cần bỏ ác làm thiện, tư tưởng thuần khiết( trong sạch) liền có thể thành Phật. Người tuân thủ lời giáo huấn( dạy bảo) của Phật là người hạnh phúc, là người được an vui. Chúng ta đều là Phật ở tương lai, mọi người hãy cố gắng nhé!",
+    "extraContent" : "Phật là một vị hoàn toàn làm lợi ích cho chúng sanh mà không có điều kiện( Đó là Phật).",
+    "youTubeId" : "n5urs8DfGrc",
+    "chinesse" : "第 一 課: 佛. 佛 說: 「人 人 都 可 以 成 佛。 佛 陀 指 導 世 人: 「只 要 捨 惡 行 善, 思 想 純 潔, 就 可 以 成 佛」。 遵 守 佛 的 教 訓 的 人, 是 幸 福 的, 快 樂 的。 我 們 都 是 未 來 的 佛, 大 家 努 力 吧。",
+    "hanViet" : "Đệ nhất khoá: Phật. Phật thuyết: Nhân nhân đô khả dĩ thành Phật. Phật Đà chỉ đạo thế nhân: Chỉ yếu xả ác hành thiện, tư tưởng thuần khiết tựu khả dĩ thành Phật. Tuân thủ Phật đích giáo huấn đích nhân thị hạnh phúc đích khoái lạc đích. Ngã môn đô thị vị lai đích Phật đại gia nỗ lực ba.",
+    "bacKinh" : "Dì yī kè: fó. fó shuō: rén rén dōu kě yǐ chéng fó. fó tuó zhǐ dǎo shì rén: zhī yào shě è xíng shàn, sī xiǎng chún jié jiù kě yǐ chéng fó. zūn shǒu fó de jiào xùn de rén shì xìng fú de kuài lè te. wǒ men dōu shì wèi lái de fó dà jiā nǔ lì ba. 」"
+  }, 
+  {
+    "id" : "C1B2",
+    "chuong" : "B - Chương 1",
+    "title" : "Bài 2 - Bồ Tát",
+    "content" : "Người học Phật, vâng theo lời giáo huấn( dạy bảo) của Phật, tâm địa lương thiện, hành vi đoan chánh( cử chỉ ngay ngắn). Một mặt học Phật, một mặt cứu giúp thế nhân. Hạng người này chính là Bồ Tát. Chúng ta phát nguyện học Phật, trước tiên làm một vị Bồ Tát nhỏ lợi mình lợi người.",
+    "extraContent" : "Lý giải sự cần thiết học chữ Hán",
+    "youTubeId" : "y-rSvl-pzsc",
+    "chinesse" : "佛 說: 「人 人 都 可 以 成 佛. 」",
+    "hanViet" : "Phật thuyết: 「 nhân nhân đô khả dĩ thành Phật. 」",
+    "bacKinh" : "fó shuō: 「 rén rén dōu kě yǐ chéng fó. 」"
+  }, 
+  {
+    "id" : "C1B3",
+    "chuong" : "B - Chương 1",
+    "title" : "Bài 3 - Ba Ca Da",
+    "content" : "Một hôm (nọ), Phật đà đi đến, ngài rất hiền hòa. Bọn trẻ đều ưa thích ngài, tranh nhau nói chuyện với ngài. Tướng mạo của Phật đà rất đẹp, toàn thân phóng( phát) ra ánh sáng lớn. Ba Ca Gia rất ngưỡng mộ, cậu ấy hỏi:” Con phải làm thế nào mới có thể giống được như ngài vậy?”. Phật đà nói với cậu ấy rằng:” Tin theo lời Phật dạy, không làm việc ác, tâm địa tốt liền có thể thành Phật”. Ba Ca Gia lòng đầy vui sướng, đi theo học tập với Phật đà.",
+    "extraContent" : "Hoan hỷ: Vui mừng <br>Hỷ hoan: Ưa thích <br>Hòa ái: dễ gần gũi, hiền hòa",
+    "youTubeId" : "gSfmml_U1q0",
+    "chinesse" : "佛 說: 「人 人 都 可 以 成 佛. 」",
+    "hanViet" : "Phật thuyết: 「 nhân nhân đô khả dĩ thành Phật. 」",
+    "bacKinh" : "fó shuō: 「 rén rén dōu kě yǐ chéng fó. 」"
+  }, 
+  {
+    "id" : "C1B4",
+    "chuong" : "B - Chương 1",
+    "title" : "Bài 4 - Phật Đồ",
+    "content" : "Đệ tử của Phật đà có hai hạng người: Xuất gia chính là tăng nhân, tại gia chính là cư sĩ. Tăng nhân rời khỏi gia đình, đến ở nơi Phật tự. Học tập đạo lý của Phật dạy, trải qua đời sống nghiêm túc. Người cư sĩ quy y (quay về, nương tựa) tam bảo, tuân theo lời giáo huấn của Phật. Người xuất gia và người tại gia đều có trách nhiệm hoằng dương Phật giáo( phổ biến lời Phật dạy).",
+    "extraContent" : "Phật đồ: Đệ tử Phật <br>Phật giáo: Giáo dục của Phật <br>Quy y: Quay về, nương tựa <br>Hoằng dương: Phổ biến",
+    "youTubeId" : "B23YmyoOgnk",
+    "chinesse" : "佛 說: 「人 人 都 可 以 成 佛. 」",
+    "hanViet" : "Phật thuyết: 「 nhân nhân đô khả dĩ thành Phật. 」",
+    "bacKinh" : "fó shuō: 「 rén rén dōu kě yǐ chéng fó. 」"
+  }, 
+  {
+    "id" : "C1B5",
+    "chuong" : "B - Chương 1",
+    "title" : "Bài 5 - Cậu Bé Hiếu Thuận",
+    "content" : "Phật nói: Thiểm rất hiếu thuận, cha mẹ đều đã già, không còn răng nữa, không thể nhai nghiền thức ăn, thân thể gầy yếu. Thiểm nghĩ: 'ba mẹ tuổi đã cao mà không có gì ăn, phải làm sao đây?' Cậu ấy mang trên người bộ da nai, đội trên đầu sừng nai, giả làm nai con, ngày ngày lên trên núi, núp ở trong bầy nai, vắt lấy sữa nai, mang về nhà dâng lên cho bố mẹ dùng.",
+    "extraContent" : "Đây là một câu chuyện nói về một cậu bé hiếu thảo. Mong rằng chúng ta, người nào là người con kém khuyết thì chúng ta phải cố gắng trở thành người con hiếu thảo với ba mẹ. Trong muôn ngàn hạnh thì hạnh hiếu đứng đầu trong các hạnh. Trong muôn ngàn tội ác thì không có tội nào là lớn hơn bất hiếu với cha mẹ.",
+    "youTubeId" : "10y2mXP0sWo",
+    "chinesse" : "第 五 課: 孝 順 的 孩 子. 佛 說: 睒 很 孝 順, 爸 爸, 媽 媽 老 了, 沒 有 牙 齒, 不 能 咀 嚼 東 西, 身 體 瘦 弱. 睒 想: 爸 媽 年 紀 老 大, 沒 有 東 西 吃, 怎 麼 辦 呢? 他 披 上 鹿 皮 戴 上 鹿 角, 扮 作 鹿 兒, 天 天 到 山 上, 躱 在 鹿 羣 中, 搾 取 鹿 乳, 拿 回 家 給 爸 媽 吃.",
+    "hanViet" : "Đệ Ngũ Khóa: Hiếu Thuận Đích Hài Tử. Phật thuyết: Thiểm ngận hiếu thuận, ba ba, ma ma lão liễu, một hữu nha xỉ, bất năng trớ tước đông tây, thân thể xấu nhược. Thiểm tưởng: ba ma niên kỉ lão đại, một hữu đông tây ngật, chẩm ma biện ni? Tha phi thượng lộc bì đới thượng lộc giác, ban tác lộc nhi thiên thiên đáo sơn thượng, đóa tại lộc quần trung, trá thủ lộc nhũ nã hồi gia cấp ba ma ngật.",
+    "bacKinh" : "Dì wǔ kè: Xiào shùn de hái zi. fó shuō: shǎn hěn xiào shùn, bà bà, mā mā lǎo le, méi yǒu yá chǐ, bù néng jǔ jué dōng xī, shēn tǐ shòu ruò. shǎn xiǎng: bà mā nián jì lǎo dà, méi yǒu dōng xī chī, zěn me bàn ne? tā pī shàng lù pí dài shàng lù jiǎo, bàn zuò lù ér tiān tiān dào shān shàng, duǒ zài lù qún zhōng, zhà qǔ lù rǔ ná huí jiā gěi bà mā chī."
+  }, 
+  {
+    "id" : "C1B6",
+    "chuong" : "B - Chương 1",
+    "title" : "Bài 6 - Hảo Hành Vi",
+    "content" : "HÀNH VI TỐT <br>Ở trong nhà kính trọng tôn trưởng, hiếu thuận Cha Mẹ, thương yêu anh em, chị em. Tại trường học kính Thầy Cô, thương yêu bạn đồng học, phục tùng chỉ đạo. Đối hàng xóm phải hòa thuận (tôn kính, tin cậy, thân thiết). Người khác có khó khăn, chúng ta phải đồng cảm với họ, giúp đỡ họ. Những việc này đều là hành vi tốt. Chúng ta sẽ làm được, chúng ta sẽ làm được tốt.",
+    "extraContent" : "和 睦 Hòa mục: Tôn kính, tin cậy, thân thiết. <br> 這 些 Giá ta: Những điều này <br> Trong cảnh khổ của người chúng ta phải xúc cảm tình người để giúp đỡ, dân gian có câu một miếng khi đói bằng một gói khi no. Khi người ta hoạn nạn, một sự giúp đỡ dù nhỏ nhưng đối với người ta cũng rất to lớn, trân quý. Còn khi người ta dư giả rồi thì có cho tiền muôn bạc vạn nữa thì đối với người ta cũng không giá trị gì.",
+    "youTubeId" : "2PG4fPo8X2E",
+    "chinesse" : "第 六 課: 好 行 為. 在 家 裏: 敬 重 尊 長, 孝 順 爸 媽, 愛 護 兄 弟 姊 妹。 在 學 校: 敬 老 師, 愛 同 學， 服 從 指 導。 對 鄰 家, 要 和 睦。 別 人 有 困 難, 我 們 同 情 他、 幫 助 他。 這 些 都 是 好 行 為。 我 們 做 得 到， 我 們 做 得 好。",
+    "hanViet" : "Đệ Lục Khoá: Hảo Hành Vị. Tại gia lí: kính trọng tôn trưởng, hiếu thuận ba ma, ái hộ huynh đệ tỉ muội. Tại học hiệu: kính lão sư, ái đồng học, phục tùng chỉ đạo. Đối lân gia, yếu hòa mục. Biệt nhân hữu khốn nan ngã môn đồng tình tha, bang trợ tha. Giá ta đô thị hảo hành vi. ngã môn tố đắc đáo， ngã môn tố đắc hảo.",
+    "bacKinh" : "Dì liù kè: hǎo xíng wéi. zài jiā lǐ: jìng zhòng zūn zhǎng, xiào shùn bà mā, ài hù xiōng dì jiě mèi. zài xué xiào: jìng lǎo shī, ài tóng xué, fú cóng zhǐ dǎo. duì lín jiā  yào hé mù. bié rén yǒu kùn nán wǒ men tóng qíng tā, bāng zhù tā. zhè xiē dōu shì hǎo xíng wéi. wǒ men zuò de dào  wǒ men zuò de hǎo."
+  }],
+  "users" : {
+    "tab8LSaXzDOxJMxN9wqVOCLWFgl1" : {
+      "firstName" : "Thang",
+      "lastLoggedIn" : 1531733459450,
+      "lastName" : "Lam",
+      "signedUp" : 1531733323848
+    }
+  }
+}
